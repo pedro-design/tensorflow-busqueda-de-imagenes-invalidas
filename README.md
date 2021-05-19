@@ -19,6 +19,6 @@ para correr el analizador solo escribe: pyhton analizar_imagenes.py -d "y aqui v
 
 # dispositivos con windows
 
-En este caso ya se da un archivo comprimido para windows si no se tiene instalado python 
+En este caso ya se da un archivo comprimido para windows si no se tiene instalado python en releases
 abre una ventana de cmd y cambia al directorio donde se encuentra el ejecutable (con cd /d "y la ruta del directorio")
 despues para correr el analizador solo escribe: analizar_imagenes.exe -d "y aqui va la ruta de la carpeta entre comillas"
