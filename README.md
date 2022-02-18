@@ -1,3 +1,4 @@
+
 # tensorflow-busqueda-de-imagenes-invalidas
 Busca y detecta problemas en directorios con imagenes, como por ejemplo archivos corruptos o archivos invalidos
 * caracteristicas:
@@ -22,3 +23,7 @@ para correr el analizador solo escribe: pyhton analizar_imagenes.py -d "y aqui v
 En este caso ya se da un archivo comprimido para windows si no se tiene instalado python en releases
 abre una ventana de cmd y cambia al directorio donde se encuentra el ejecutable (con cd /d "y la ruta del directorio")
 despues para correr el analizador solo escribe: analizar_imagenes.exe -d "y aqui va la ruta de la carpeta entre comillas"
+
+ Markup : - [ ] Desarrollar un juego simple que utilize tensorflow
+          - [ ] Desarrollar el cuaderno para super-resolucion
+          - [x] Desarrollar el eliminador de imagenes corruptas
